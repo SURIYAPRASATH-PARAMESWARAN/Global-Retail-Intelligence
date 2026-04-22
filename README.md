@@ -21,13 +21,13 @@ This project goes beyond standard sales reporting. Instead of answering "how muc
 ## Screenshots
 
 ### Page 1 — Global Sales Overview
-![Page 1](screenshots/page1.png)
+![Page 1](page1.PNG)
 
 ### Page 2 — Profit Leak Analysis
-![Page 2](screenshots/page2.png)
+![Page 2](page2.PNG)
 
 ### Page 3 — Customer & Product Intelligence
-![Page 3](screenshots/page3.png)
+![Page 3](page3.PNG)
 
 ---
 
